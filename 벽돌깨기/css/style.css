@@ -1,0 +1,15 @@
+body{
+    text-align : center;
+}
+#myCanvas {
+  border: 3px solid lightgray;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+#myCanvas:focus {
+  border-color: #000000;
+  outline: none;
+}
+.startBtn { padding: 5px 12px;}
+
+
